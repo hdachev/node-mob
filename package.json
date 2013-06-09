@@ -1,5 +1,5 @@
 {   "name" : "mob",
-    "version" : "0.0.8",
+    "version" : "0.0.9",
     "description" : "simple multi-process applications",
     "keywords" : [ "cluster", "child", "process", "message", "passing", "procfile" ],
     "author" : "Hristo Dachev <tutini@gmail.com>",
